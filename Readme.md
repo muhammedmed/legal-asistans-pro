@@ -9,7 +9,7 @@
 
 ## 🔗 Live Demo
 
-👉 Try the live app: [Streamlit App](https://your-streamlit-url.streamlit.app)
+👉 Try the live app: [Streamlit App](https://muhammedmed-legalasistans-pro.streamlit.app/)
 
 ---
 
